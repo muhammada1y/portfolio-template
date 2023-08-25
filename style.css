@@ -141,6 +141,18 @@ main hr {
 .secondsection {
   background: rgb(234, 234, 234);
 }
+
+@media screen and (max-with: 600) {
+  .firstsection {
+    height: auto;
+  }
+  .secondsection {
+    height: auto;
+  }
+  .skills {
+    height: auto;
+  }
+}
 /* about section starts */
 
 .heading {
